@@ -38,6 +38,7 @@ CNN Model with inspiration from resnet block is used.
 For preprocessed dataset and model contact :)
 
 Special thanks:
+1. [paper] (https://arxiv.org/pdf/2109.04081.pdf)
 1. [Good notebook to start with](https://www.kaggle.com/salmaneunus/a-basic-guide-to-speech-recognition)
 2. [Good read for feature extraction](https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3)
 3. https://www.kaggle.com/dmitrybabko/speech-emotion-recognition-en
